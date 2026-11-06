@@ -20,10 +20,6 @@ Add `-g` to install it for all projects, or `-a claude-code` (or another agent) 
 
 Not a design system or tokens, and not a brand. It is one person's taste, dated and changing; `[his call]` lines are things he said, `[inferred]` lines are an agent's reading of his work. Fork it and replace the lines with your own.
 
-## Influences
-
-Apple's interface guidelines, Emil Kowalski's writing on design engineering, Refactoring UI, and Microcopy: The Complete Guide. The lines are his own calls; the books shaped some of the questions.
-
 ## Licence
 
 MIT.
