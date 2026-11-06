@@ -15,3 +15,4 @@ Run this over the thing itself (the screen, the page, the copy), not over the pl
 11. Is every destructive action last, in its own group, quiet in the list, red only on the confirm step, confirmed, with a footnote?
 12. Does hover only darken the background or add a hairline, and does nothing pop, jump, flicker or load white before it animates?
 13. Does the content fit its frame: no accidental scroll for a few items, nothing cropped, nothing hanging out?
+14. Is there warmth from colour or light anywhere (a tint, a soft gradient, a lit surface), or is it white boxes on white? Does every fact the person needs survive the removing?

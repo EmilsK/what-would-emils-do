@@ -15,6 +15,7 @@ WWED for short: how Emīls Kraucis designs, written down so an agent designs lik
 - Read it before the work, not after. Make the thing, then run [CHECK.md](CHECK.md), the questions in this folder, before calling it done, and say what failed.
 - When reviewing against it: name the lines the work relies on and the ones it breaks, then the smallest change that would make it pass. Nothing is "approved by taste"; the report says what matches, what clashes, and what the taste does not cover. The decision stays with the person.
 - When a question is open: one question at a time, the recommended option first, short trade-offs, and never a default written down as if it were decided.
+- When the work is for a native platform (iOS, Android, macOS): load that platform's own guidelines beside this file, because the taste says "look like the platform" but cannot show what that looks like; without the reference, restraint wins and the screen reads as a web mock. `[his call, 2026-11-06; from the skill test]`
 - When deciding: use data when there is data, judgment when there is not, and say which, because whoever reads the decision should know how sure to be. `[his call, 2026-10-30]`
 
 ## Who
@@ -30,6 +31,7 @@ WWED for short: how Emīls Kraucis designs, written down so an agent designs lik
 ## What good looks like
 
 - Before adding anything (an element, a colour, a line of copy, a second logo, numbers on a list): try removing instead, because every extra thing is one more thing the reader has to think about. "Don't make me think." Restraint. `[his call, 2026-10-30]`
+- When removing: take out decoration, never information, because a fact the person needs (who approves when the approver is away, how long the walk takes) stays even when the screen gets busier; restraint is about what the thing looks like, not about what it tells. `[his call, 2026-11-06; from the skill test]`
 - When choosing between craft and decoration: fewer lines, calmer motion, warmth from colour and light rather than ornament, and nothing without a job (a border around an avatar, a highlight ring on a destructive row, a coloured arrow on a button that only needs to be found), because decoration without a job reads as noise. Restraint. `[his call, 2026-10-30 and 2026-11-03]`
 - When the main thing does not stand out: quiet the neighbours first, and if it still needs a step up, weight or colour before size, because contrast is the gap, not the volume, and size-only hierarchy makes headlines huge and footnotes tiny. Restraint. `[his call, 2026-11-06]`
 - When designing for a platform: make it look like that platform (iOS like the current iOS, with its glass and SF Symbols; Android like Android; web like web), and never show a capability the platform lacks, because people trust what feels native, and a promise the platform cannot keep costs that trust. `[his call, 2026-10-02; softened 2026-11-06]`

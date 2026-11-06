@@ -13,7 +13,7 @@ Add `-g` to install it for all projects, or `-a claude-code` (or another agent) 
 ## What it does
 
 - Loads when the agent designs, builds or reviews a screen, page, component, form or line of interface copy.
-- `CHECK.md` is thirteen questions to run over the finished thing before calling it done.
+- `CHECK.md` is fourteen questions to run over the finished thing before calling it done.
 - Ask "review this against the taste" and you get what matches, what clashes and the smallest fix. The decision stays with you.
 
 ## What it is not
