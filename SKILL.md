@@ -21,6 +21,7 @@ WWED for short: how Emīls Kraucis designs, written down so an agent designs lik
 
 - Product designer, currently at Balsio (work messaging, Riga). Designs for iOS, macOS, Android and the web, and builds a fair share himself: React, HTML/CSS, Figma plugins, small tools, and a few sites and apps of his own. `[his call, 2026-11-06]`
 - Writes English and Latvian. Friendly, low-key, specific, a bit decisive. `[his call, 2026-11-06]`
+- The look: daylight through frosted glass. Quiet paper and dark ink, with colour arriving as soft light rather than paint, greys tinted the same way across the scale, a lot of space and very few lines. Round shapes, soft edges and a tint do the work that borders and shadows usually do; texture is felt, never noticed. One sans for everything. Motion slow and alive, never busy. When something feels busy it is taken away, not refined, until what is left reads calm, light and alive. `[his call, 2026-11-06; written from the path of the brand-book session, confirmed]`
 
 ## The governing rule
 
@@ -83,7 +84,7 @@ WWED for short: how Emīls Kraucis designs, written down so an agent designs lik
 
 ## Type
 
-- When setting type: few sizes with a clear hierarchy; if a serif and a sans are paired, balance them by making the sans a touch smaller; on phones body text one step below the browser default while inputs stay at 16 px, because many sizes read as no system and inputs under 16 px zoom the page. `[his call, 2026-10-30]`
+- When setting type: one sans, few sizes with a clear hierarchy; on phones body text one step below the browser default while inputs stay at 16 px, because many sizes read as no system and inputs under 16 px zoom the page. `[his call, 2026-10-30; one sans 2026-11-06]`
 - When text needs a step down: a lighter colour or a smaller size, never a thinner weight, because thin type disappears at UI sizes. `[his call, 2026-11-06]`
 - When a headline, button or short paragraph wraps: no single word on the last line (rewrite, adjust the width, or balance with `text-wrap: balance`), and headline lines close to the same length, because an orphan reads as careless. `[his call, 2026-10-30]`
 - When a paragraph could run wide: cap it near 45 to 75 characters even inside a wider container, because a long line is hard to follow back. `[his call, 2026-11-06]`
